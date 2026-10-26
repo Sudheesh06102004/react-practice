@@ -2,6 +2,6 @@
   "name": "classbased-workspace",
   "private": true,
   "scripts": {
-    "dev": "npm --prefix classbased run dev"
+    "dev": "npm --prefix classbased run dev --"
   }
 }

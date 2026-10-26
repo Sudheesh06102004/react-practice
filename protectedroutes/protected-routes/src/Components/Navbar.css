@@ -1,0 +1,21 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: purple;
+  padding: 5px 50px;
+  color: white;
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+    gap: 20px; 
+    font-weight: bold;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
